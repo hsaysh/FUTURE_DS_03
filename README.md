@@ -44,4 +44,12 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 ---
 
 ## 📂 Repository Structure
+FUTURE_DS_03/
+│── FUTURE_DS_03_College_Event_Feedback_Analysis.ipynb   # Colab Notebook
+│── student_feedback.csv                                 # Dataset (optional)
+│── README.md                                            # Project documentation
+│── screenshots/                                         # Graphs & Visuals
+    │── sentiment_distribution.png
+    │── ratings_distribution.png
+
 
