@@ -37,9 +37,9 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 ---
 
 ## 📸 Sample Visualizations
-(Screenshots folder me images add karo aur yaha link do)  
-![Ratings Chart](screenshots/ratings.png)  
-![Word Cloud](screenshots/wordcloud.png)  
+![Sentiment Distribution Chart](screenshot1.png)  
+![Ratings Distribution Chart](screenshots2.png)  
+ 
 
 ---
 
