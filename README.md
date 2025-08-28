@@ -37,8 +37,8 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 ---
 
 ## 📸 Sample Visualizations
-![Sentiment Distribution Chart](screenshot1.png)  
-![Ratings Distribution Chart](screenshots2.png)  
+![Sentiment Distribution Chart](Screenshot1.png)  
+![Ratings Distribution Chart](Screenshots2.png)  
  
 ---
 
