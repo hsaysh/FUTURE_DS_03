@@ -40,5 +40,12 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 ![Sentiment Distribution Chart](screenshot1.png)  
 ![Ratings Distribution Chart](screenshots2.png)  
  
+---
+
+##  Author
+**Yash Sharma**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-8a04b82b8)  
+🔗 [GitHub](https://github.com/hsaysh)  
 
 ---
+ *If you found this project interesting, don't forget to star this repo!*
