@@ -40,16 +40,3 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 ![Sentiment Distribution Chart](screenshot1.png)  
 ![Ratings Distribution Chart](screenshots2.png)  
  
-
----
-
-## 📂 Repository Structure
-FUTURE_DS_03/
-│── FUTURE_DS_03_College_Event_Feedback_Analysis.ipynb   # Colab Notebook
-│── student_feedback.csv                                 # Dataset (optional)
-│── README.md                                            # Project documentation
-│── screenshots/                                         # Graphs & Visuals
-    │── sentiment_distribution.png
-    │── ratings_distribution.png
-
-
